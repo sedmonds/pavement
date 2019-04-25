@@ -1,6 +1,6 @@
 # pavement
 website for a to z road, inc.
-<img align="center" height="400" src="/assets/screen.png">
+<img align="center" height="400" src="/assets/screen.jpg">
 
 ## Commands
 Command                | Description                                      |
